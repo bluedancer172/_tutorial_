@@ -1,1 +1,3 @@
-This is the tutorial for how to take a repository into Eclipse, and more. Enjoy!
+This is a tutorial on how to add your respositories from GitHub into Eclipse and more. 
+
+:D
